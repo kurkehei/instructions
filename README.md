@@ -1,7 +1,8 @@
 # General Instructions
 This repo contains general instructions.
 
-## GitHub
+## GitHub, Git
+- [!!! [Git commands] !!!](git-commands.md)
 - [GitHub Docs](https://docs.github.com/en)
 - [GitHub CLI](https://docs.github.com/en/github-cli)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
