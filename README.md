@@ -13,7 +13,7 @@ This repo contains general instructions.
 - [Docker Docs](https://docs.docker.com/)
 
 ## Runtime environments
-- [Node.js](https://nodejs.org/en), [Node.js notes](../blob/main/nodejs-notes.md)
+- [Node.js](https://nodejs.org/en), [Node.js notes](nodejs-notes.md)
 
 ## Code Generators
 - [AppSeed](https://appseed.us/) - create seed projects crafted on top of modern UI
