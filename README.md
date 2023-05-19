@@ -1,7 +1,7 @@
 # General Instructions
 This repo contains general instructions.
 
-## GitHub, Git
+## Git, GitHub
 - [!!! [Git commands] !!!](git-commands.md)
 - [GitHub Docs](https://docs.github.com/en)
 - [GitHub CLI](https://docs.github.com/en/github-cli)
