@@ -10,10 +10,10 @@ This repo contains general instructions.
 ## VS Code, WSL, Docker
 - [VS Code Docs](https://code.visualstudio.com/docs)
 - [WSL Docs](https://learn.microsoft.com/en-us/windows/wsl/)
-- [Docker Docs](https://docs.docker.com/)
+- [Docker Docs](https://docs.docker.com/), [!!! [Docker notes] !!!](docker-notes.md)
 
 ## Runtime environments
-- [Node.js](https://nodejs.org/en), [Node.js notes](nodejs-notes.md)
+- [Node.js](https://nodejs.org/en), [!!! [Node.js notes] !!!](nodejs-notes.md)
 
 ## Code Generators
 - [AppSeed](https://appseed.us/) - create seed projects crafted on top of modern UI
