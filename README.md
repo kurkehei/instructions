@@ -46,4 +46,11 @@ This repo contains general instructions. See [Set Up your Development Environmen
 
 ## Databases
 
+[Get started with databases on WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database), [!!! [Databases notes] !!!](databases-notes.md)
+
+- MySQL: [MySQL Docs](https://dev.mysql.com/doc/mysql-getting-started/en/), [MySQL VS Code extension](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+- PostgreSQL: [PostgreSQL Docs](https://www.postgresql.org/docs/), [PostgreSQL VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql)
+- MongoDB: [MongoDB Docs](https://www.mongodb.com/docs/), [VS Code with MongoDB](https://code.visualstudio.com/docs/azure/mongodb)
+- MSSQL: [MSSQL on WSL](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16), [MSSQL VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+- Redis: [Redis Docs](https://redis.io/docs/), [Redis VS Code extension](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-redis-client)
 
