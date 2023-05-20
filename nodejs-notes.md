@@ -157,7 +157,7 @@ Other events/functions that are asynchronous are DOM events, fetch requests, and
 
 ### How it works
 
-![Javascript Event Loop](js-event-loop.png)
+![Javascript Event Loop](./pics/js-event-loop.png)
 
 -   **Heap**: A region of memory where objects and variables are allocated.
 -   **Stack**: When the program starts executing, functions are pushed and popped here. Any asynchronous function inside the call stack is pushed to the web API.
