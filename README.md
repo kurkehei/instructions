@@ -1,5 +1,5 @@
 # General Instructions
-This repo contains general instructions.
+This repo contains general instructions. See [Set Up your Development Environment on Windows](https://learn.microsoft.com/en-us/windows/dev-environment/) for more details.
 
 ## Git, GitHub
 - [!!! [Git commands] !!!](git-commands.md)
@@ -26,7 +26,7 @@ This repo contains general instructions.
 ## Languages and Coding w/ VS Code
 - JS: [JavaScript](https://javascript.info/), [JS Tutorial](https://www.javascripttutorial.net/), [ES6 Tutorial](https://www.javascripttutorial.net/es6/), [W3Schools](https://www.w3schools.com/js/), [JavaScript in VS Code](https://code.visualstudio.com/docs/languages/javascript), [Working with JavaScript in VS Code](https://code.visualstudio.com/docs/nodejs/working-with-javascript)
 - TS: [TypeScript](https://www.typescriptlang.org/), [TypeScript W3 Tutorial](https://www.w3schools.com/typescript/), [TypeScript in VS Code](https://code.visualstudio.com/docs/languages/typescript), [TypeScript tutorial in VS Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
-- Python: [Docs](https://www.python.org/doc/), [Flask](https://flask.palletsprojects.com/en/2.3.x/), [Python in VS Code](https://code.visualstudio.com/docs/languages/python), [Python Tutorial in VS Code](https://code.visualstudio.com/docs/python/python-tutorial), [Full Stack Python](https://www.fullstackpython.com/)
+- Python: [Docs](https://www.python.org/doc/), [Flask](https://flask.palletsprojects.com/en/2.3.x/), [Python in VS Code](https://code.visualstudio.com/docs/languages/python), [Python Tutorial in VS Code](https://code.visualstudio.com/docs/python/python-tutorial), [Full Stack Python](https://www.fullstackpython.com/), [!!! [Python notes] !!!](python-notes.md)
 - PHP: [Docs](https://www.php.net/manual/en/), [PHP in VS Code](https://code.visualstudio.com/docs/languages/php)
 
 ## Web Development Frameworks
