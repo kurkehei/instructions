@@ -18,7 +18,11 @@ This repo contains general instructions. See [Set Up your Development Environmen
 - [Java Runtime Environment](https://dev.java/)
 
 ## Code Generators
-- [AppSeed](https://appseed.us/) - create seed projects crafted on top of modern UI
+- [AppSeed](https://appseed.us/) - Create seed projects crafted on top of modern UI
+- [ScaffoldHub](https://scaffoldhub.io/) - The javascript/typescript full-stack web application generator (paid)
+- [Divjoy](https://divjoy.com/) - React codebase generator (paid)
+- [refine](https://refine.dev/) - Build React-based CRUD applications (Open Source)
+- [API PLATFORM](https://api-platform.com/) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time
 
 ## Mobile, Hybrid apps & Frameworks
 - [React Native](https://reactnative.dev/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Framework7](https://framework7.io/), [Onsen UI](https://onsen.io/), [Progressive Web App](https://web.dev/progressive-web-apps/)
@@ -35,6 +39,7 @@ This repo contains general instructions. See [Set Up your Development Environmen
 - [React](https://reactjs.org/), [Preact](https://preactjs.com/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/), [Svelte](https://svelte.dev/), [InfernoJS](https://www.infernojs.org/), [Ember.js](https://emberjs.com/), [Backbone.js](https://backbonejs.org/), [jQuery](https://jquery.com/)
 
 ### Backend
+- Nest: [NestJS](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications
 - Node.js: [Express](https://expressjs.com/)
 - Python: [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 - PHP: [Laravel](https://laravel.com/), [CodeIgniter](https://codeigniter.com/), [Symfony](https://symfony.com/)
