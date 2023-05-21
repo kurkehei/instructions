@@ -39,7 +39,7 @@ This repo contains general instructions. See [Set Up your Development Environmen
 - [React](https://reactjs.org/), [Preact](https://preactjs.com/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/), [Svelte](https://svelte.dev/), [InfernoJS](https://www.infernojs.org/), [Ember.js](https://emberjs.com/), [Backbone.js](https://backbonejs.org/), [jQuery](https://jquery.com/)
 
 ### Backend
-- Nest: [NestJS](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications
+- Nest: [NestJS](https://nestjs.com/) - Node.js framework for building server-side applications
 - Node.js: [Express](https://expressjs.com/)
 - Python: [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 - PHP: [Laravel](https://laravel.com/), [CodeIgniter](https://codeigniter.com/), [Symfony](https://symfony.com/)
