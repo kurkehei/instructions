@@ -38,6 +38,9 @@ This repo contains general instructions. See [Set Up your Development Environmen
 ### Frontend
 - [React](https://reactjs.org/), [Preact](https://preactjs.com/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/), [Svelte](https://svelte.dev/), [InfernoJS](https://www.infernojs.org/), [Ember.js](https://emberjs.com/), [Backbone.js](https://backbonejs.org/), [jQuery](https://jquery.com/)
 
+### Frontend UI/UX Components and Libraries
+- [React Bootstrap](https://react-bootstrap.github.io/), [Material UI](https://mui.com/), [Semantic UI](https://semantic-ui.com/), [Tailwind CSS](https://tailwindcss.com/), [Ant Design](https://ant.design/), [Foundation](https://get.foundation/), [Bulma](https://bulma.io/), [Chakra UI](https://chakra-ui.com/), [Core UI](https://coreui.io/)
+
 ### Backend
 - Nest: [NestJS](https://nestjs.com/) - Node.js framework for building server-side applications
 - Node.js: [Express](https://expressjs.com/)
