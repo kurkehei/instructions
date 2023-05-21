@@ -42,12 +42,14 @@ This repo contains general instructions. See [Set Up your Development Environmen
 - [React Bootstrap](https://react-bootstrap.github.io/), [Material UI](https://mui.com/), [Semantic UI](https://semantic-ui.com/), [Tailwind CSS](https://tailwindcss.com/), [Ant Design](https://ant.design/), [Foundation](https://get.foundation/), [Bulma](https://bulma.io/), [Chakra UI](https://chakra-ui.com/), [Core UI](https://coreui.io/)
 
 ### Backend
-- Nest: [NestJS](https://nestjs.com/) - Node.js framework for building server-side applications
-- Node.js: [Express](https://expressjs.com/)
+- Node.js: [Express](https://expressjs.com/), [NestJS](https://nestjs.com/)
 - Python: [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 - PHP: [Laravel](https://laravel.com/), [CodeIgniter](https://codeigniter.com/), [Symfony](https://symfony.com/)
 
-### Full Stack: JS Stacks
+### Full Stack
+
+"The mother of all demo apps", see [RealWorld example apps](https://github.com/gothinkster/realworld) how to mix and match different frontends and backends.
+
 - [Next.js](https://nextjs.org/) - The React Framework
 - [Nuxt.js](https://nuxtjs.org/) - The Vue Framework
 - ME[A/R/V/E]N: MongoDB, Express.js/React/Vue.js/Ember.js, Angular, Node.js
