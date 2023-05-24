@@ -2,7 +2,8 @@
 
 - [CLI Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 - [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
-- [Docker Commands](docker-commands.md)
+- [Docker Commands Cheat Sheet - PDF](https://phoenixnap.com/kb/wp-content/uploads/2022/12/docker-commands-cheat-sheet-pdf.pdf)
+- [Docker Commands Cheat Sheet - WEB](https://phoenixnap.com/kb/docker-commands-cheat-sheet)
 
 # Docker
 
